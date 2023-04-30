@@ -19,8 +19,8 @@ import logging
 import warnings
 
 '''TODO:
-1. Device login and login history?
-2. log for authentication and saving
+1. Device login and login history - if this is possible
+2. Remove the repetition in each function
 '''
 
 # If modifying these scopes, delete the file token.pickle.
